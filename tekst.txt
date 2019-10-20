@@ -1,2 +1,2 @@
-gadfgfdsh
 Linija za konflikt na drugoj grani
+linija za konflikt na masteru
